@@ -1,0 +1,25 @@
+task_path: /home/zhihao/Document/gnn_fd/graphSage/split/multihead/NCGNN_reorderedge/
+dataset:
+  name: pubmed
+  split: [0.6,0.2,0.2]
+  path: /home/zhihao/Document/gnn_fd/graphSage/data/
+  task: node
+  transductive: True
+train:
+  batch_size: 2048
+  patience: 3
+  repeat: 5
+model:
+  num_sample: 0
+  cuda: True
+  beta: 1.0
+  interval: 0.3
+  r: 8
+  name: ncgnn
+  gcn: True
+  hidden: 128
+optim:
+  lr: 0.01
+  epochs: 500
+  
+  

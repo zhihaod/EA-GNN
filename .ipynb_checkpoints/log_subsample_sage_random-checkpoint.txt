@@ -1,0 +1,12 @@
+datasaet: cora,  model: sage,  feature subsampling: random.
+time of construct data:0.26542234420776367
+epoch: 0, val_loss: 1.729377031326294
+epoch: 1, val_loss: 1.5043892860412598
+Traceback (most recent call last):
+  File "main.py", line 76, in <module>
+    result = train_model(feat_data_compress,labels,num_sample,hidden,cuda,gcn,beta,lr,train_idx,val_idx,test_idx,full_adjs_dict,batch_size,epochs,dataset,patience,r,interval)
+  File "/home/zhihao/Document/gnn_fd/graphSage/split/multihead/NCGNN_reorderedge/train1.py", line 26, in train_model
+    result = train(model,optimizer,train_idx,val_idx,test_idx,full_adjs_dict,features,labels,batch_size,lr,len(np.unique(labels)),epochs,dataset,cuda,gcn,patience)
+  File "/home/zhihao/Document/gnn_fd/graphSage/split/multihead/NCGNN_reorderedge/train1.py", line 190, in train
+    os.remove(file)
+FileNotFoundError: [Errno 2] No such file or directory: './intermediate/cora/0.pkl'
