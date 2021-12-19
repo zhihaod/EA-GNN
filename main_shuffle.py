@@ -22,8 +22,8 @@ model = args.model
 #feature_select = args.subsample
 
 cfg_names = ['cora','citeseer','pubmed','academic_cs','academic_py','amazon_computer','amazon_photo']
-cfg_names = ['amazon_computer']
-task_path = '/home/zhihao/Document/gnn_fd/graphSage/split/multihead/NCGNN_reorderedge/'
+
+task_path = '/home/zhihao/Document/gnn_fd/graphSage/split/multihead/NC-GNN/'
 for cfg_name in cfg_names:
     print(f'datasaet: {cfg_name},  model: {model}.')
     cfg_file = task_path + f'cfg/shuffling/' + cfg_name + '.yaml'

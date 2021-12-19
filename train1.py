@@ -163,7 +163,7 @@ def train(model,optimizer,train_idx,val_idx,test_idx,full_adjs_dict,features,lab
     bad_counter = 0
     best = epochs + 1
     best_epoch = 0  
-    temp_path = './intermediate/' + f'{dataset}/'
+    temp_path = '/home/zhihao/temp/intermediate/' + f'{dataset}/'
     #full_adjs_dict = create_weighted_adj_dict(full_adjs_dict)
     time_start = time.time()
     for epoch in range(epochs):  

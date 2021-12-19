@@ -1,4 +1,4 @@
-task_path: /home/zhihao/Document/gnn_fd/graphSage/split/multihead/NCGNN_reorderedge/
+task_path: /home/zhihao/Document/gnn_fd/graphSage/split/multihead/NC-GNN/
 dataset:
   name: cora
   split: [0.6,0.2,0.2]
@@ -7,7 +7,7 @@ dataset:
   transductive: True
 train:
   batch_size: 256
-  patience: 3
+  patience: 5
   repeat: 5
 model:
   num_sample: 0
