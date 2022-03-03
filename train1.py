@@ -71,7 +71,11 @@ def train_model_gat(features,labels,num_sample,hidden,cuda,gcn,beta,lr,train_idx
                 dropout=0,
                 alpha=0.2)
     optimizer = torch.optim.Adam(model.parameters(),lr=lr)    
-    features, adj, labels = Variable(features), Variable(full_adjs_dict), Variable(labels)
+    G_ = nx.Graph(full_adjs_dict)
+    adj = nx.to_numpy_matrix(G_)
+    features, adj, labels = Variable(torch.DoubleTensor(features)), Variable(torch.DoubleTensor(adj)), Variable(torch.tensor(labels))
+    #features, adj, labels = (features), (full_adjs_dict), (labels)
+    #x.type(torch.DoubleTensor)
     if cuda:
         model.cuda()
         features = features.cuda()
@@ -105,6 +109,7 @@ def train_gat(model,optimizer,train_idx,val_idx,test_idx,adj,features,labels,bat
         
         model.train()
         optimizer.zero_grad()
+        print(type(features))
         output = model(features, adj)
 
         loss_train = F.nll_loss(output[train_idx], labels[train_idx])
@@ -192,21 +197,7 @@ def train(model,optimizer,train_idx,val_idx,test_idx,full_adjs_dict,features,lab
     result = test(model,labels,temp_path,best_epoch,test_idx,batch_size,num_class,full_adjs_dict)
     return [loss_train,loss_values,result]
 
-#def create_weighted_adj_dict(full_adjs):
-#    new_adjs = {}
-#    print(len(full_adjs))
-#    for key in full_adjs:
-#        neighbs_set = full_adjs[key] | set([key])
-#        n_list = []
-#        for node in neighbs_set:
-#            n_list.extend(full_adjs[node] & neighbs_set)
-#        new_adjs[key] = set()
-#        
-#        neighbs_set.remove(key)
-#        for node in neighbs_set:
-#            new_adjs[key].add((node,n_list.count(node)))
-#    print(len(full_adjs))
-#    return new_adjs
+
 
 def create_weighted_adj_dict(full_adjs):
     G_ = nx.Graph(full_adjs)

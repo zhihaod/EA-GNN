@@ -7,7 +7,7 @@ dataset:
   transductive: True
 train:
   batch_size: 512
-  patience: 3
+  patience: 5
   repeat: 5
 model:
   num_sample: 0
@@ -19,7 +19,7 @@ model:
   gcn: True
   hidden: 128
 optim:
-  lr: 0.01
+  lr: 0.005
   epochs: 500
   
   

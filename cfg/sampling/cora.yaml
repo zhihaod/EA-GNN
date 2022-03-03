@@ -7,14 +7,14 @@ dataset:
   transductive: True
 train:
   batch_size: 256
-  patience: 3
+  patience: 5
   repeat: 5
 model:
   num_sample: 0
   cuda: True
   beta: 0.0
   interval: 0.2
-  r: 6
+  r: 7
   name: ncgnn
   gcn: True
   hidden: 128

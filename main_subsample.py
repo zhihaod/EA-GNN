@@ -22,7 +22,6 @@ model = args.model
 feature_select = args.subsample
 
 cfg_names = ['cora','citeseer','pubmed','academic_cs','academic_py','amazon_computer','amazon_photo']
-cfg_names = ['academic_py','amazon_computer','amazon_photo']
 task_path = '/home/zhihao/Document/gnn_fd/graphSage/split/multihead/NC-GNN/'
 for cfg_name in cfg_names:
     print(f'datasaet: {cfg_name},  model: {model},  feature subsampling: {feature_select}.')
