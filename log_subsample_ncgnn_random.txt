@@ -18396,3 +18396,1383 @@ epoch: 5, val_loss: 0.8131169378757477
 epoch: 6, val_loss: 0.7812545895576477
 epoch: 7, val_loss: 0.7651928663253784
 epoch: 8, val_loss: 0.7604078948497772
+epoch: 9, val_loss: 0.7627352774143219
+epoch: 10, val_loss: 0.7659826278686523
+epoch: 11, val_loss: 0.7755501568317413
+epoch: 12, val_loss: 0.7852288484573364
+epoch: 13, val_loss: 0.792486846446991
+Final epoch: 13
+time of one train:3.3648805618286133
+beta:1.4,accuracy:0.7890625
+
+epoch: 0, val_loss: 1.5841251015663147
+epoch: 1, val_loss: 1.350189447402954
+epoch: 2, val_loss: 1.1243995428085327
+epoch: 3, val_loss: 0.9605501890182495
+epoch: 4, val_loss: 0.8652692139148712
+epoch: 5, val_loss: 0.8129158318042755
+epoch: 6, val_loss: 0.7837271988391876
+epoch: 7, val_loss: 0.7706828117370605
+epoch: 8, val_loss: 0.7656465172767639
+epoch: 9, val_loss: 0.7666462063789368
+epoch: 10, val_loss: 0.7708262503147125
+epoch: 11, val_loss: 0.7797780334949493
+epoch: 12, val_loss: 0.7884827852249146
+epoch: 13, val_loss: 0.7986164391040802
+Final epoch: 13
+time of one train:3.32818865776062
+beta:1.5999999999999999,accuracy:0.787109375
+
+epoch: 0, val_loss: 1.5750365853309631
+epoch: 1, val_loss: 1.3518139123916626
+epoch: 2, val_loss: 1.1340517401695251
+epoch: 3, val_loss: 0.9702692925930023
+epoch: 4, val_loss: 0.8720169067382812
+epoch: 5, val_loss: 0.8200308978557587
+epoch: 6, val_loss: 0.7915956377983093
+epoch: 7, val_loss: 0.7777122259140015
+epoch: 8, val_loss: 0.7722596526145935
+epoch: 9, val_loss: 0.7752372622489929
+epoch: 10, val_loss: 0.7798663973808289
+epoch: 11, val_loss: 0.7890193164348602
+epoch: 12, val_loss: 0.7961102426052094
+epoch: 13, val_loss: 0.805353581905365
+Final epoch: 13
+time of one train:3.383998394012451
+beta:1.7999999999999998,accuracy:0.783203125
+
+time of one repeat:34.41872596740723
+time of construct data:0.275341272354126
+epoch: 0, val_loss: 1.5766373872756958
+epoch: 1, val_loss: 1.3313125371932983
+epoch: 2, val_loss: 1.091621220111847
+epoch: 3, val_loss: 0.9203113317489624
+epoch: 4, val_loss: 0.8184167444705963
+epoch: 5, val_loss: 0.7624804079532623
+epoch: 6, val_loss: 0.739374965429306
+epoch: 7, val_loss: 0.7220124900341034
+epoch: 8, val_loss: 0.7218277156352997
+epoch: 9, val_loss: 0.7247479557991028
+epoch: 10, val_loss: 0.7277764678001404
+epoch: 11, val_loss: 0.7363533973693848
+epoch: 12, val_loss: 0.7473101317882538
+epoch: 13, val_loss: 0.7591344118118286
+Final epoch: 13
+beta:0.0,accuracy:0.76171875
+
+epoch: 0, val_loss: 1.556868851184845
+epoch: 1, val_loss: 1.3064005374908447
+epoch: 2, val_loss: 1.0804961919784546
+epoch: 3, val_loss: 0.9196972548961639
+epoch: 4, val_loss: 0.8203723132610321
+epoch: 5, val_loss: 0.7654508054256439
+epoch: 6, val_loss: 0.7319323122501373
+epoch: 7, val_loss: 0.7167892158031464
+epoch: 8, val_loss: 0.7141940593719482
+epoch: 9, val_loss: 0.7165581285953522
+epoch: 10, val_loss: 0.7221689224243164
+epoch: 11, val_loss: 0.728767991065979
+epoch: 12, val_loss: 0.7367458939552307
+epoch: 13, val_loss: 0.7514559328556061
+Final epoch: 13
+time of one train:3.3617401123046875
+beta:0.2,accuracy:0.755859375
+
+epoch: 0, val_loss: 1.5916878581047058
+epoch: 1, val_loss: 1.348529577255249
+epoch: 2, val_loss: 1.1040616035461426
+epoch: 3, val_loss: 0.9237953722476959
+epoch: 4, val_loss: 0.8169593214988708
+epoch: 5, val_loss: 0.7532235085964203
+epoch: 6, val_loss: 0.7248860597610474
+epoch: 7, val_loss: 0.7080353796482086
+epoch: 8, val_loss: 0.709635853767395
+epoch: 9, val_loss: 0.706380158662796
+epoch: 10, val_loss: 0.7103085219860077
+epoch: 11, val_loss: 0.7209969460964203
+epoch: 12, val_loss: 0.728107213973999
+epoch: 13, val_loss: 0.7393206655979156
+epoch: 14, val_loss: 0.7493893206119537
+Final epoch: 14
+time of one train:3.5941290855407715
+beta:0.4,accuracy:0.748046875
+
+epoch: 0, val_loss: 1.5788586735725403
+epoch: 1, val_loss: 1.322778046131134
+epoch: 2, val_loss: 1.0769727230072021
+epoch: 3, val_loss: 0.9038741886615753
+epoch: 4, val_loss: 0.802451878786087
+epoch: 5, val_loss: 0.7454078793525696
+epoch: 6, val_loss: 0.7213114202022552
+epoch: 7, val_loss: 0.7096303403377533
+epoch: 8, val_loss: 0.7032184600830078
+epoch: 9, val_loss: 0.7094853520393372
+epoch: 10, val_loss: 0.7167735397815704
+epoch: 11, val_loss: 0.7229670882225037
+epoch: 12, val_loss: 0.7308271825313568
+epoch: 13, val_loss: 0.7396767735481262
+Final epoch: 13
+time of one train:3.364841938018799
+beta:0.6000000000000001,accuracy:0.75
+
+epoch: 0, val_loss: 1.5875937938690186
+epoch: 1, val_loss: 1.3486353158950806
+epoch: 2, val_loss: 1.113917589187622
+epoch: 3, val_loss: 0.9379080832004547
+epoch: 4, val_loss: 0.8282364904880524
+epoch: 5, val_loss: 0.765964150428772
+epoch: 6, val_loss: 0.7336336672306061
+epoch: 7, val_loss: 0.7177698910236359
+epoch: 8, val_loss: 0.7132886052131653
+epoch: 9, val_loss: 0.7166487872600555
+epoch: 10, val_loss: 0.7209557294845581
+epoch: 11, val_loss: 0.7265823185443878
+epoch: 12, val_loss: 0.7343198955059052
+epoch: 13, val_loss: 0.7462759017944336
+Final epoch: 13
+time of one train:3.358769178390503
+beta:0.8,accuracy:0.763671875
+
+epoch: 0, val_loss: 1.5747501254081726
+epoch: 1, val_loss: 1.3415035009384155
+epoch: 2, val_loss: 1.1099315881729126
+epoch: 3, val_loss: 0.9290468096733093
+epoch: 4, val_loss: 0.8193410634994507
+epoch: 5, val_loss: 0.761690080165863
+epoch: 6, val_loss: 0.7282148003578186
+epoch: 7, val_loss: 0.7139818370342255
+epoch: 8, val_loss: 0.7118934094905853
+epoch: 9, val_loss: 0.7083767652511597
+epoch: 10, val_loss: 0.7152628898620605
+epoch: 11, val_loss: 0.7233650088310242
+epoch: 12, val_loss: 0.7308414280414581
+epoch: 13, val_loss: 0.7406767904758453
+epoch: 14, val_loss: 0.7491475045681
+Final epoch: 14
+time of one train:3.5871708393096924
+beta:1.0,accuracy:0.76171875
+
+epoch: 0, val_loss: 1.5836315155029297
+epoch: 1, val_loss: 1.3547466397285461
+epoch: 2, val_loss: 1.1272006630897522
+epoch: 3, val_loss: 0.9510181546211243
+epoch: 4, val_loss: 0.8379930853843689
+epoch: 5, val_loss: 0.7725452482700348
+epoch: 6, val_loss: 0.7375167012214661
+epoch: 7, val_loss: 0.7236505746841431
+epoch: 8, val_loss: 0.7209880650043488
+epoch: 9, val_loss: 0.7173235714435577
+epoch: 10, val_loss: 0.7223180830478668
+epoch: 11, val_loss: 0.7272377014160156
+epoch: 12, val_loss: 0.7357715368270874
+epoch: 13, val_loss: 0.7497825026512146
+epoch: 14, val_loss: 0.7538480162620544
+Final epoch: 14
+time of one train:3.586616039276123
+beta:1.2,accuracy:0.755859375
+
+epoch: 0, val_loss: 1.5777071118354797
+epoch: 1, val_loss: 1.3435348868370056
+epoch: 2, val_loss: 1.1111680269241333
+epoch: 3, val_loss: 0.9364424347877502
+epoch: 4, val_loss: 0.8282709419727325
+epoch: 5, val_loss: 0.7704391181468964
+epoch: 6, val_loss: 0.7361717820167542
+epoch: 7, val_loss: 0.7218292355537415
+epoch: 8, val_loss: 0.7166906297206879
+epoch: 9, val_loss: 0.7157659530639648
+epoch: 10, val_loss: 0.7171506881713867
+epoch: 11, val_loss: 0.72508904337883
+epoch: 12, val_loss: 0.7308222949504852
+epoch: 13, val_loss: 0.7399895787239075
+epoch: 14, val_loss: 0.7506417334079742
+Final epoch: 14
+time of one train:3.606630802154541
+beta:1.4,accuracy:0.76171875
+
+epoch: 0, val_loss: 1.5809088349342346
+epoch: 1, val_loss: 1.3549330234527588
+epoch: 2, val_loss: 1.1257180571556091
+epoch: 3, val_loss: 0.9518063366413116
+epoch: 4, val_loss: 0.8419193029403687
+epoch: 5, val_loss: 0.7765727043151855
+epoch: 6, val_loss: 0.7461450099945068
+epoch: 7, val_loss: 0.7283141613006592
+epoch: 8, val_loss: 0.7211593687534332
+epoch: 9, val_loss: 0.7216567695140839
+epoch: 10, val_loss: 0.7263327538967133
+epoch: 11, val_loss: 0.730741947889328
+epoch: 12, val_loss: 0.7397158741950989
+epoch: 13, val_loss: 0.7477346658706665
+Final epoch: 13
+time of one train:3.375816583633423
+beta:1.5999999999999999,accuracy:0.763671875
+
+epoch: 0, val_loss: 1.6109417080879211
+epoch: 1, val_loss: 1.4054166078567505
+epoch: 2, val_loss: 1.1802805066108704
+epoch: 3, val_loss: 0.9899052083492279
+epoch: 4, val_loss: 0.8603357672691345
+epoch: 5, val_loss: 0.7894888520240784
+epoch: 6, val_loss: 0.7508031129837036
+epoch: 7, val_loss: 0.7356108725070953
+epoch: 8, val_loss: 0.7304984033107758
+epoch: 9, val_loss: 0.7280301749706268
+epoch: 10, val_loss: 0.7298603951931
+epoch: 11, val_loss: 0.7359171509742737
+epoch: 12, val_loss: 0.7437663376331329
+epoch: 13, val_loss: 0.7510886490345001
+epoch: 14, val_loss: 0.758578896522522
+Final epoch: 14
+time of one train:3.5896360874176025
+beta:1.7999999999999998,accuracy:0.763671875
+
+time of one repeat:34.99510192871094
+time of construct data:0.2718627452850342
+epoch: 0, val_loss: 1.609344482421875
+epoch: 1, val_loss: 1.4001482725143433
+epoch: 2, val_loss: 1.1871166825294495
+epoch: 3, val_loss: 1.0196305811405182
+epoch: 4, val_loss: 0.905433863401413
+epoch: 5, val_loss: 0.8372302949428558
+epoch: 6, val_loss: 0.7973049879074097
+epoch: 7, val_loss: 0.7729576528072357
+epoch: 8, val_loss: 0.7619175016880035
+epoch: 9, val_loss: 0.7582730352878571
+epoch: 10, val_loss: 0.7590996325016022
+epoch: 11, val_loss: 0.7599168419837952
+epoch: 12, val_loss: 0.7667216956615448
+epoch: 13, val_loss: 0.7766566872596741
+epoch: 14, val_loss: 0.7828607261180878
+Final epoch: 14
+beta:0.0,accuracy:0.755859375
+
+epoch: 0, val_loss: 1.6049634218215942
+epoch: 1, val_loss: 1.402920424938202
+epoch: 2, val_loss: 1.1941078901290894
+epoch: 3, val_loss: 1.0255369544029236
+epoch: 4, val_loss: 0.9084937870502472
+epoch: 5, val_loss: 0.8309149444103241
+epoch: 6, val_loss: 0.7865017652511597
+epoch: 7, val_loss: 0.763159453868866
+epoch: 8, val_loss: 0.7525821030139923
+epoch: 9, val_loss: 0.7495130002498627
+epoch: 10, val_loss: 0.7471331059932709
+epoch: 11, val_loss: 0.7520534098148346
+epoch: 12, val_loss: 0.7594412267208099
+epoch: 13, val_loss: 0.7659795880317688
+epoch: 14, val_loss: 0.7724894881248474
+epoch: 15, val_loss: 0.7842012345790863
+Final epoch: 15
+time of one train:3.632354259490967
+beta:0.2,accuracy:0.751953125
+
+epoch: 0, val_loss: 1.61617112159729
+epoch: 1, val_loss: 1.4077407121658325
+epoch: 2, val_loss: 1.1920924186706543
+epoch: 3, val_loss: 1.0204631090164185
+epoch: 4, val_loss: 0.9062776863574982
+epoch: 5, val_loss: 0.8311760425567627
+epoch: 6, val_loss: 0.7864291965961456
+epoch: 7, val_loss: 0.7627205550670624
+epoch: 8, val_loss: 0.7498064637184143
+epoch: 9, val_loss: 0.7446011304855347
+epoch: 10, val_loss: 0.743385523557663
+epoch: 11, val_loss: 0.745694637298584
+epoch: 12, val_loss: 0.7515966594219208
+epoch: 13, val_loss: 0.758062481880188
+epoch: 14, val_loss: 0.7664413750171661
+epoch: 15, val_loss: 0.7741843461990356
+Final epoch: 15
+time of one train:3.6148345470428467
+beta:0.4,accuracy:0.751953125
+
+epoch: 0, val_loss: 1.603992998600006
+epoch: 1, val_loss: 1.3966779708862305
+epoch: 2, val_loss: 1.188742458820343
+epoch: 3, val_loss: 1.0198897123336792
+epoch: 4, val_loss: 0.9024022221565247
+epoch: 5, val_loss: 0.826247900724411
+epoch: 6, val_loss: 0.7784547507762909
+epoch: 7, val_loss: 0.7542332410812378
+epoch: 8, val_loss: 0.7419000864028931
+epoch: 9, val_loss: 0.7346282601356506
+epoch: 10, val_loss: 0.7336614727973938
+epoch: 11, val_loss: 0.7383633553981781
+epoch: 12, val_loss: 0.7425156831741333
+epoch: 13, val_loss: 0.7501234412193298
+epoch: 14, val_loss: 0.756877213716507
+epoch: 15, val_loss: 0.7649968862533569
+Final epoch: 15
+time of one train:3.6686112880706787
+beta:0.6000000000000001,accuracy:0.75
+
+epoch: 0, val_loss: 1.6113064885139465
+epoch: 1, val_loss: 1.4039230346679688
+epoch: 2, val_loss: 1.1909857392311096
+epoch: 3, val_loss: 1.0211531221866608
+epoch: 4, val_loss: 0.9032563269138336
+epoch: 5, val_loss: 0.8273911774158478
+epoch: 6, val_loss: 0.7828075289726257
+epoch: 7, val_loss: 0.756337583065033
+epoch: 8, val_loss: 0.7411626875400543
+epoch: 9, val_loss: 0.7375074028968811
+epoch: 10, val_loss: 0.7348984479904175
+epoch: 11, val_loss: 0.7365016639232635
+epoch: 12, val_loss: 0.74362713098526
+epoch: 13, val_loss: 0.7493626177310944
+epoch: 14, val_loss: 0.7579995691776276
+epoch: 15, val_loss: 0.7664182782173157
+Final epoch: 15
+time of one train:3.633660078048706
+beta:0.8,accuracy:0.75
+
+epoch: 0, val_loss: 1.626069962978363
+epoch: 1, val_loss: 1.4389668107032776
+epoch: 2, val_loss: 1.2344516515731812
+epoch: 3, val_loss: 1.0561888813972473
+epoch: 4, val_loss: 0.9252943992614746
+epoch: 5, val_loss: 0.8418179750442505
+epoch: 6, val_loss: 0.7918137907981873
+epoch: 7, val_loss: 0.7636987268924713
+epoch: 8, val_loss: 0.7453127503395081
+epoch: 9, val_loss: 0.7370417416095734
+epoch: 10, val_loss: 0.7359970211982727
+epoch: 11, val_loss: 0.7385293543338776
+epoch: 12, val_loss: 0.7420426905155182
+epoch: 13, val_loss: 0.7466908395290375
+epoch: 14, val_loss: 0.7567434310913086
+epoch: 15, val_loss: 0.7632315158843994
+Final epoch: 15
+time of one train:3.6281521320343018
+beta:1.0,accuracy:0.75
+
+epoch: 0, val_loss: 1.6206130981445312
+epoch: 1, val_loss: 1.4365724921226501
+epoch: 2, val_loss: 1.2384274005889893
+epoch: 3, val_loss: 1.0663776397705078
+epoch: 4, val_loss: 0.9366155862808228
+epoch: 5, val_loss: 0.8522791564464569
+epoch: 6, val_loss: 0.7993763089179993
+epoch: 7, val_loss: 0.7665760815143585
+epoch: 8, val_loss: 0.7487881779670715
+epoch: 9, val_loss: 0.7439666986465454
+epoch: 10, val_loss: 0.7382935583591461
+epoch: 11, val_loss: 0.7401624321937561
+epoch: 12, val_loss: 0.74740269780159
+epoch: 13, val_loss: 0.7525702714920044
+epoch: 14, val_loss: 0.7592656016349792
+epoch: 15, val_loss: 0.770358145236969
+Final epoch: 15
+time of one train:3.6356685161590576
+beta:1.2,accuracy:0.75390625
+
+epoch: 0, val_loss: 1.638217806816101
+epoch: 1, val_loss: 1.4553419947624207
+epoch: 2, val_loss: 1.258338749408722
+epoch: 3, val_loss: 1.0839025378227234
+epoch: 4, val_loss: 0.9547486305236816
+epoch: 5, val_loss: 0.8675204515457153
+epoch: 6, val_loss: 0.8117822110652924
+epoch: 7, val_loss: 0.7803769111633301
+epoch: 8, val_loss: 0.7632635235786438
+epoch: 9, val_loss: 0.7518116533756256
+epoch: 10, val_loss: 0.7468028962612152
+epoch: 11, val_loss: 0.7473260164260864
+epoch: 12, val_loss: 0.7527305483818054
+epoch: 13, val_loss: 0.7555233538150787
+epoch: 14, val_loss: 0.7646726965904236
+epoch: 15, val_loss: 0.7739337980747223
+Final epoch: 15
+time of one train:3.6280088424682617
+beta:1.4,accuracy:0.751953125
+
+epoch: 0, val_loss: 1.638052523136139
+epoch: 1, val_loss: 1.4674991965293884
+epoch: 2, val_loss: 1.283195674419403
+epoch: 3, val_loss: 1.114590585231781
+epoch: 4, val_loss: 0.9820413887500763
+epoch: 5, val_loss: 0.888700544834137
+epoch: 6, val_loss: 0.828781396150589
+epoch: 7, val_loss: 0.7920811772346497
+epoch: 8, val_loss: 0.7678776383399963
+epoch: 9, val_loss: 0.7573014795780182
+epoch: 10, val_loss: 0.7569983899593353
+epoch: 11, val_loss: 0.7546823918819427
+epoch: 12, val_loss: 0.7559934854507446
+epoch: 13, val_loss: 0.7629869282245636
+epoch: 14, val_loss: 0.7692655622959137
+epoch: 15, val_loss: 0.7775584161281586
+epoch: 16, val_loss: 0.7875843644142151
+Final epoch: 16
+time of one train:3.8141448497772217
+beta:1.5999999999999999,accuracy:0.7578125
+
+epoch: 0, val_loss: 1.6297482252120972
+epoch: 1, val_loss: 1.4528138041496277
+epoch: 2, val_loss: 1.2630357146263123
+epoch: 3, val_loss: 1.0935213565826416
+epoch: 4, val_loss: 0.96705362200737
+epoch: 5, val_loss: 0.8827514052391052
+epoch: 6, val_loss: 0.8301183879375458
+epoch: 7, val_loss: 0.7980594635009766
+epoch: 8, val_loss: 0.7816925346851349
+epoch: 9, val_loss: 0.7724280953407288
+epoch: 10, val_loss: 0.7684361636638641
+epoch: 11, val_loss: 0.7685286998748779
+epoch: 12, val_loss: 0.7734896540641785
+epoch: 13, val_loss: 0.7787688076496124
+epoch: 14, val_loss: 0.7884431481361389
+epoch: 15, val_loss: 0.7945716977119446
+Final epoch: 15
+time of one train:3.648308753967285
+beta:1.7999999999999998,accuracy:0.763671875
+
+time of one repeat:37.04603290557861
+time of construct data:0.3531179428100586
+epoch: 0, val_loss: 1.610468864440918
+epoch: 1, val_loss: 1.4083617329597473
+epoch: 2, val_loss: 1.1976053714752197
+epoch: 3, val_loss: 1.0295448899269104
+epoch: 4, val_loss: 0.9194704294204712
+epoch: 5, val_loss: 0.8537556231021881
+epoch: 6, val_loss: 0.8122474551200867
+epoch: 7, val_loss: 0.7902931272983551
+epoch: 8, val_loss: 0.77605801820755
+epoch: 9, val_loss: 0.7748766541481018
+epoch: 10, val_loss: 0.7753163278102875
+epoch: 11, val_loss: 0.776380866765976
+epoch: 12, val_loss: 0.7818305194377899
+epoch: 13, val_loss: 0.7918432056903839
+epoch: 14, val_loss: 0.7996434271335602
+Final epoch: 14
+beta:0.0,accuracy:0.744140625
+
+epoch: 0, val_loss: 1.6234516501426697
+epoch: 1, val_loss: 1.4259247779846191
+epoch: 2, val_loss: 1.2170878648757935
+epoch: 3, val_loss: 1.0394902229309082
+epoch: 4, val_loss: 0.9202305972576141
+epoch: 5, val_loss: 0.8439047336578369
+epoch: 6, val_loss: 0.8017508685588837
+epoch: 7, val_loss: 0.774989664554596
+epoch: 8, val_loss: 0.7669116854667664
+epoch: 9, val_loss: 0.7613711655139923
+epoch: 10, val_loss: 0.7640313506126404
+epoch: 11, val_loss: 0.7709133923053741
+epoch: 12, val_loss: 0.7753543555736542
+epoch: 13, val_loss: 0.7824021577835083
+epoch: 14, val_loss: 0.7944434881210327
+Final epoch: 14
+time of one train:3.4401233196258545
+beta:0.2,accuracy:0.740234375
+
+epoch: 0, val_loss: 1.62103670835495
+epoch: 1, val_loss: 1.427989661693573
+epoch: 2, val_loss: 1.2268792986869812
+epoch: 3, val_loss: 1.0592482686042786
+epoch: 4, val_loss: 0.9398384094238281
+epoch: 5, val_loss: 0.8607493937015533
+epoch: 6, val_loss: 0.8144062459468842
+epoch: 7, val_loss: 0.787694662809372
+epoch: 8, val_loss: 0.7724488973617554
+epoch: 9, val_loss: 0.7682810425758362
+epoch: 10, val_loss: 0.765215128660202
+epoch: 11, val_loss: 0.7717702388763428
+epoch: 12, val_loss: 0.7752440869808197
+epoch: 13, val_loss: 0.7826933562755585
+epoch: 14, val_loss: 0.792116105556488
+epoch: 15, val_loss: 0.8028578460216522
+Final epoch: 15
+time of one train:3.689556360244751
+beta:0.4,accuracy:0.744140625
+
+epoch: 0, val_loss: 1.6241321563720703
+epoch: 1, val_loss: 1.4231828451156616
+epoch: 2, val_loss: 1.215937852859497
+epoch: 3, val_loss: 1.050233542919159
+epoch: 4, val_loss: 0.9331222772598267
+epoch: 5, val_loss: 0.8593704998493195
+epoch: 6, val_loss: 0.8164752125740051
+epoch: 7, val_loss: 0.7921245694160461
+epoch: 8, val_loss: 0.7804715633392334
+epoch: 9, val_loss: 0.7763000428676605
+epoch: 10, val_loss: 0.7769656479358673
+epoch: 11, val_loss: 0.7818962335586548
+epoch: 12, val_loss: 0.7890071868896484
+epoch: 13, val_loss: 0.7927587330341339
+epoch: 14, val_loss: 0.8045821189880371
+Final epoch: 14
+time of one train:3.636539936065674
+beta:0.6000000000000001,accuracy:0.748046875
+
+epoch: 0, val_loss: 1.6095709204673767
+epoch: 1, val_loss: 1.4131079316139221
+epoch: 2, val_loss: 1.2092517614364624
+epoch: 3, val_loss: 1.0432716608047485
+epoch: 4, val_loss: 0.9222598671913147
+epoch: 5, val_loss: 0.8467311561107635
+epoch: 6, val_loss: 0.8023442327976227
+epoch: 7, val_loss: 0.7795551419258118
+epoch: 8, val_loss: 0.7687055766582489
+epoch: 9, val_loss: 0.7642180621623993
+epoch: 10, val_loss: 0.7621714770793915
+epoch: 11, val_loss: 0.7663261890411377
+epoch: 12, val_loss: 0.772599995136261
+epoch: 13, val_loss: 0.7828215062618256
+epoch: 14, val_loss: 0.7906553745269775
+epoch: 15, val_loss: 0.8012327551841736
+Final epoch: 15
+time of one train:3.608619213104248
+beta:0.8,accuracy:0.740234375
+
+epoch: 0, val_loss: 1.6262971758842468
+epoch: 1, val_loss: 1.427714765071869
+epoch: 2, val_loss: 1.2201135754585266
+epoch: 3, val_loss: 1.0526624917984009
+epoch: 4, val_loss: 0.9363598823547363
+epoch: 5, val_loss: 0.8614347577095032
+epoch: 6, val_loss: 0.8168763816356659
+epoch: 7, val_loss: 0.7934429943561554
+epoch: 8, val_loss: 0.7803699672222137
+epoch: 9, val_loss: 0.776579737663269
+epoch: 10, val_loss: 0.7780407965183258
+epoch: 11, val_loss: 0.7816055417060852
+epoch: 12, val_loss: 0.7883944511413574
+epoch: 13, val_loss: 0.7987672984600067
+epoch: 14, val_loss: 0.8057653903961182
+Final epoch: 14
+time of one train:3.4049179553985596
+beta:1.0,accuracy:0.736328125
+
+epoch: 0, val_loss: 1.6478834748268127
+epoch: 1, val_loss: 1.4708839654922485
+epoch: 2, val_loss: 1.2712669372558594
+epoch: 3, val_loss: 1.0963971614837646
+epoch: 4, val_loss: 0.9700062870979309
+epoch: 5, val_loss: 0.8884646892547607
+epoch: 6, val_loss: 0.8384047746658325
+epoch: 7, val_loss: 0.8072020709514618
+epoch: 8, val_loss: 0.7905082404613495
+epoch: 9, val_loss: 0.7857366502285004
+epoch: 10, val_loss: 0.7865257561206818
+epoch: 11, val_loss: 0.7902292013168335
+epoch: 12, val_loss: 0.7966680228710175
+epoch: 13, val_loss: 0.8041323125362396
+epoch: 14, val_loss: 0.8107672035694122
+Final epoch: 14
+time of one train:3.4298410415649414
+beta:1.2,accuracy:0.7421875
+
+epoch: 0, val_loss: 1.6440293788909912
+epoch: 1, val_loss: 1.4647430777549744
+epoch: 2, val_loss: 1.2651375532150269
+epoch: 3, val_loss: 1.0924200415611267
+epoch: 4, val_loss: 0.9659954905509949
+epoch: 5, val_loss: 0.8844235241413116
+epoch: 6, val_loss: 0.8346115946769714
+epoch: 7, val_loss: 0.8089651167392731
+epoch: 8, val_loss: 0.7978736460208893
+epoch: 9, val_loss: 0.7939833402633667
+epoch: 10, val_loss: 0.7958080470561981
+epoch: 11, val_loss: 0.8008067309856415
+epoch: 12, val_loss: 0.8066199719905853
+epoch: 13, val_loss: 0.8159746825695038
+epoch: 14, val_loss: 0.8263936936855316
+Final epoch: 14
+time of one train:3.4476821422576904
+beta:1.4,accuracy:0.740234375
+
+epoch: 0, val_loss: 1.644319772720337
+epoch: 1, val_loss: 1.4692052602767944
+epoch: 2, val_loss: 1.2748813033103943
+epoch: 3, val_loss: 1.103264570236206
+epoch: 4, val_loss: 0.977451890707016
+epoch: 5, val_loss: 0.8988339006900787
+epoch: 6, val_loss: 0.8475861251354218
+epoch: 7, val_loss: 0.8204578161239624
+epoch: 8, val_loss: 0.8071266412734985
+epoch: 9, val_loss: 0.804202139377594
+epoch: 10, val_loss: 0.8064468502998352
+epoch: 11, val_loss: 0.8105466067790985
+epoch: 12, val_loss: 0.8151087164878845
+epoch: 13, val_loss: 0.8254883885383606
+epoch: 14, val_loss: 0.8368008136749268
+Final epoch: 14
+time of one train:3.3651721477508545
+beta:1.5999999999999999,accuracy:0.744140625
+
+epoch: 0, val_loss: 1.6479009985923767
+epoch: 1, val_loss: 1.4814742803573608
+epoch: 2, val_loss: 1.2933900952339172
+epoch: 3, val_loss: 1.126216471195221
+epoch: 4, val_loss: 0.9996188580989838
+epoch: 5, val_loss: 0.9129057228565216
+epoch: 6, val_loss: 0.8586962819099426
+epoch: 7, val_loss: 0.826190322637558
+epoch: 8, val_loss: 0.8105919659137726
+epoch: 9, val_loss: 0.8048443496227264
+epoch: 10, val_loss: 0.8060784637928009
+epoch: 11, val_loss: 0.808873325586319
+epoch: 12, val_loss: 0.8154494762420654
+epoch: 13, val_loss: 0.8220289647579193
+epoch: 14, val_loss: 0.8348383009433746
+Final epoch: 14
+time of one train:3.365413188934326
+beta:1.7999999999999998,accuracy:0.740234375
+
+time of one repeat:35.111350297927856
+time of construct data:0.27556419372558594
+epoch: 0, val_loss: 1.6322700381278992
+epoch: 1, val_loss: 1.4429238438606262
+epoch: 2, val_loss: 1.2458319664001465
+epoch: 3, val_loss: 1.0788739919662476
+epoch: 4, val_loss: 0.958412230014801
+epoch: 5, val_loss: 0.8857974708080292
+epoch: 6, val_loss: 0.8446218967437744
+epoch: 7, val_loss: 0.8205316662788391
+epoch: 8, val_loss: 0.8124467134475708
+epoch: 9, val_loss: 0.8056202530860901
+epoch: 10, val_loss: 0.8088646233081818
+epoch: 11, val_loss: 0.8152951002120972
+epoch: 12, val_loss: 0.8224219679832458
+epoch: 13, val_loss: 0.8354435861110687
+epoch: 14, val_loss: 0.8470652997493744
+Final epoch: 14
+beta:0.0,accuracy:0.76953125
+
+epoch: 0, val_loss: 1.6144086718559265
+epoch: 1, val_loss: 1.420449674129486
+epoch: 2, val_loss: 1.2258511781692505
+epoch: 3, val_loss: 1.0687346458435059
+epoch: 4, val_loss: 0.9569579362869263
+epoch: 5, val_loss: 0.8844828009605408
+epoch: 6, val_loss: 0.8454950153827667
+epoch: 7, val_loss: 0.821199506521225
+epoch: 8, val_loss: 0.8095804154872894
+epoch: 9, val_loss: 0.8051389455795288
+epoch: 10, val_loss: 0.8076261579990387
+epoch: 11, val_loss: 0.8125852346420288
+epoch: 12, val_loss: 0.8228630423545837
+epoch: 13, val_loss: 0.835807740688324
+epoch: 14, val_loss: 0.8452726900577545
+Final epoch: 14
+time of one train:3.406984329223633
+beta:0.2,accuracy:0.771484375
+
+epoch: 0, val_loss: 1.6256075501441956
+epoch: 1, val_loss: 1.4367145895957947
+epoch: 2, val_loss: 1.243425726890564
+epoch: 3, val_loss: 1.080128788948059
+epoch: 4, val_loss: 0.9624215066432953
+epoch: 5, val_loss: 0.8879276812076569
+epoch: 6, val_loss: 0.8462088704109192
+epoch: 7, val_loss: 0.8226001262664795
+epoch: 8, val_loss: 0.8094321191310883
+epoch: 9, val_loss: 0.8058886229991913
+epoch: 10, val_loss: 0.8064102530479431
+epoch: 11, val_loss: 0.8123506605625153
+epoch: 12, val_loss: 0.8201149106025696
+epoch: 13, val_loss: 0.8317643702030182
+epoch: 14, val_loss: 0.8419829308986664
+Final epoch: 14
+time of one train:3.4232113361358643
+beta:0.4,accuracy:0.771484375
+
+epoch: 0, val_loss: 1.6327211260795593
+epoch: 1, val_loss: 1.444455087184906
+epoch: 2, val_loss: 1.240018367767334
+epoch: 3, val_loss: 1.0734410285949707
+epoch: 4, val_loss: 0.9567647278308868
+epoch: 5, val_loss: 0.8845560848712921
+epoch: 6, val_loss: 0.8378344476222992
+epoch: 7, val_loss: 0.8115964531898499
+epoch: 8, val_loss: 0.800806850194931
+epoch: 9, val_loss: 0.7948075830936432
+epoch: 10, val_loss: 0.7956152260303497
+epoch: 11, val_loss: 0.7995514869689941
+epoch: 12, val_loss: 0.8105268180370331
+epoch: 13, val_loss: 0.8193103671073914
+epoch: 14, val_loss: 0.8293024301528931
+Final epoch: 14
+time of one train:3.414822816848755
+beta:0.6000000000000001,accuracy:0.765625
+
+epoch: 0, val_loss: 1.6379614472389221
+epoch: 1, val_loss: 1.4512557983398438
+epoch: 2, val_loss: 1.2521134614944458
+epoch: 3, val_loss: 1.0788556337356567
+epoch: 4, val_loss: 0.956507533788681
+epoch: 5, val_loss: 0.8820057809352875
+epoch: 6, val_loss: 0.8383001089096069
+epoch: 7, val_loss: 0.8163864016532898
+epoch: 8, val_loss: 0.8052395582199097
+epoch: 9, val_loss: 0.8021319806575775
+epoch: 10, val_loss: 0.8021904826164246
+epoch: 11, val_loss: 0.8118111193180084
+epoch: 12, val_loss: 0.8206925988197327
+epoch: 13, val_loss: 0.8324695527553558
+epoch: 14, val_loss: 0.8460348844528198
+Final epoch: 14
+time of one train:3.455106496810913
+beta:0.8,accuracy:0.76953125
+
+epoch: 0, val_loss: 1.6235967874526978
+epoch: 1, val_loss: 1.4373834729194641
+epoch: 2, val_loss: 1.2402151823043823
+epoch: 3, val_loss: 1.0752605199813843
+epoch: 4, val_loss: 0.9597063660621643
+epoch: 5, val_loss: 0.8849281072616577
+epoch: 6, val_loss: 0.8406215310096741
+epoch: 7, val_loss: 0.8140997588634491
+epoch: 8, val_loss: 0.8012970387935638
+epoch: 9, val_loss: 0.7990030348300934
+epoch: 10, val_loss: 0.7989932596683502
+epoch: 11, val_loss: 0.8039513826370239
+epoch: 12, val_loss: 0.8125416040420532
+epoch: 13, val_loss: 0.8224336504936218
+epoch: 14, val_loss: 0.8347553610801697
+epoch: 15, val_loss: 0.8464028835296631
+Final epoch: 15
+time of one train:3.6565091609954834
+beta:1.0,accuracy:0.759765625
+
+epoch: 0, val_loss: 1.6380703449249268
+epoch: 1, val_loss: 1.462550938129425
+epoch: 2, val_loss: 1.2703406810760498
+epoch: 3, val_loss: 1.1009961366653442
+epoch: 4, val_loss: 0.9770674109458923
+epoch: 5, val_loss: 0.9001229703426361
+epoch: 6, val_loss: 0.8541681468486786
+epoch: 7, val_loss: 0.8279432058334351
+epoch: 8, val_loss: 0.8143369853496552
+epoch: 9, val_loss: 0.8099209070205688
+epoch: 10, val_loss: 0.8078186810016632
+epoch: 11, val_loss: 0.8139196634292603
+epoch: 12, val_loss: 0.8243531584739685
+epoch: 13, val_loss: 0.8329123258590698
+epoch: 14, val_loss: 0.8438564836978912
+epoch: 15, val_loss: 0.8578033745288849
+Final epoch: 15
+time of one train:3.6512279510498047
+beta:1.2,accuracy:0.765625
+
+epoch: 0, val_loss: 1.6386662721633911
+epoch: 1, val_loss: 1.4718955755233765
+epoch: 2, val_loss: 1.2849001288414001
+epoch: 3, val_loss: 1.1178850531578064
+epoch: 4, val_loss: 0.9947983920574188
+epoch: 5, val_loss: 0.9154662489891052
+epoch: 6, val_loss: 0.8641516268253326
+epoch: 7, val_loss: 0.8379533588886261
+epoch: 8, val_loss: 0.8243288695812225
+epoch: 9, val_loss: 0.817021369934082
+epoch: 10, val_loss: 0.8153586685657501
+epoch: 11, val_loss: 0.8199354410171509
+epoch: 12, val_loss: 0.8273747861385345
+epoch: 13, val_loss: 0.8365957140922546
+epoch: 14, val_loss: 0.8504337966442108
+epoch: 15, val_loss: 0.8630289733409882
+Final epoch: 15
+time of one train:3.654545783996582
+beta:1.4,accuracy:0.76171875
+
+epoch: 0, val_loss: 1.6437001824378967
+epoch: 1, val_loss: 1.4770717024803162
+epoch: 2, val_loss: 1.293599784374237
+epoch: 3, val_loss: 1.1318107843399048
+epoch: 4, val_loss: 1.0124024748802185
+epoch: 5, val_loss: 0.9357854127883911
+epoch: 6, val_loss: 0.8883744776248932
+epoch: 7, val_loss: 0.8610163927078247
+epoch: 8, val_loss: 0.8449744582176208
+epoch: 9, val_loss: 0.8354285061359406
+epoch: 10, val_loss: 0.8338730037212372
+epoch: 11, val_loss: 0.8397391736507416
+epoch: 12, val_loss: 0.8474965393543243
+epoch: 13, val_loss: 0.8554418981075287
+epoch: 14, val_loss: 0.8670110404491425
+epoch: 15, val_loss: 0.8774710893630981
+Final epoch: 15
+time of one train:3.6591227054595947
+beta:1.5999999999999999,accuracy:0.75390625
+
+epoch: 0, val_loss: 1.659762442111969
+epoch: 1, val_loss: 1.5000757575035095
+epoch: 2, val_loss: 1.3201455473899841
+epoch: 3, val_loss: 1.1542657017707825
+epoch: 4, val_loss: 1.0292049050331116
+epoch: 5, val_loss: 0.9468395113945007
+epoch: 6, val_loss: 0.8969884216785431
+epoch: 7, val_loss: 0.8674116432666779
+epoch: 8, val_loss: 0.8504347205162048
+epoch: 9, val_loss: 0.8444149494171143
+epoch: 10, val_loss: 0.8448869585990906
+epoch: 11, val_loss: 0.8484269678592682
+epoch: 12, val_loss: 0.8535454869270325
+epoch: 13, val_loss: 0.8627131879329681
+epoch: 14, val_loss: 0.8754403293132782
+Final epoch: 14
+time of one train:3.4306869506835938
+beta:1.7999999999999998,accuracy:0.75390625
+
+time of one repeat:35.41208791732788
+time of construct data:0.27399611473083496
+epoch: 0, val_loss: 1.5981029272079468
+epoch: 1, val_loss: 1.3919382691383362
+epoch: 2, val_loss: 1.1862714290618896
+epoch: 3, val_loss: 1.0229513049125671
+epoch: 4, val_loss: 0.9163495600223541
+epoch: 5, val_loss: 0.8514288365840912
+epoch: 6, val_loss: 0.8157784342765808
+epoch: 7, val_loss: 0.7986088395118713
+epoch: 8, val_loss: 0.788325697183609
+epoch: 9, val_loss: 0.7858307063579559
+epoch: 10, val_loss: 0.7897219657897949
+epoch: 11, val_loss: 0.7972550690174103
+epoch: 12, val_loss: 0.8044321238994598
+epoch: 13, val_loss: 0.8154363334178925
+epoch: 14, val_loss: 0.8263741135597229
+Final epoch: 14
+beta:0.0,accuracy:0.791015625
+
+epoch: 0, val_loss: 1.6349311470985413
+epoch: 1, val_loss: 1.4325618743896484
+epoch: 2, val_loss: 1.220208466053009
+epoch: 3, val_loss: 1.045060157775879
+epoch: 4, val_loss: 0.926807314157486
+epoch: 5, val_loss: 0.8557842075824738
+epoch: 6, val_loss: 0.8162870705127716
+epoch: 7, val_loss: 0.7994894683361053
+epoch: 8, val_loss: 0.7879962623119354
+epoch: 9, val_loss: 0.7863724827766418
+epoch: 10, val_loss: 0.7864822149276733
+epoch: 11, val_loss: 0.7940184772014618
+epoch: 12, val_loss: 0.8009367287158966
+epoch: 13, val_loss: 0.8115608394145966
+epoch: 14, val_loss: 0.8247684836387634
+Final epoch: 14
+time of one train:3.428468942642212
+beta:0.2,accuracy:0.80859375
+
+epoch: 0, val_loss: 1.6215566396713257
+epoch: 1, val_loss: 1.414301872253418
+epoch: 2, val_loss: 1.2023924589157104
+epoch: 3, val_loss: 1.0333788096904755
+epoch: 4, val_loss: 0.9210786521434784
+epoch: 5, val_loss: 0.8543260097503662
+epoch: 6, val_loss: 0.8143917918205261
+epoch: 7, val_loss: 0.7925968766212463
+epoch: 8, val_loss: 0.7829782664775848
+epoch: 9, val_loss: 0.7820615470409393
+epoch: 10, val_loss: 0.780348151922226
+epoch: 11, val_loss: 0.7847782373428345
+epoch: 12, val_loss: 0.795173317193985
+epoch: 13, val_loss: 0.8030550181865692
+epoch: 14, val_loss: 0.813636302947998
+epoch: 15, val_loss: 0.8242123126983643
+Final epoch: 15
+time of one train:3.6346168518066406
+beta:0.4,accuracy:0.798828125
+
+epoch: 0, val_loss: 1.605186641216278
+epoch: 1, val_loss: 1.3943414688110352
+epoch: 2, val_loss: 1.1800904870033264
+epoch: 3, val_loss: 1.0117546916007996
+epoch: 4, val_loss: 0.9015330970287323
+epoch: 5, val_loss: 0.839362382888794
+epoch: 6, val_loss: 0.8053910732269287
+epoch: 7, val_loss: 0.7881432771682739
+epoch: 8, val_loss: 0.7796527743339539
+epoch: 9, val_loss: 0.774535745382309
+epoch: 10, val_loss: 0.778381735086441
+epoch: 11, val_loss: 0.7865233421325684
+epoch: 12, val_loss: 0.790691614151001
+epoch: 13, val_loss: 0.8038633763790131
+epoch: 14, val_loss: 0.8165334761142731
+Final epoch: 14
+time of one train:3.4292709827423096
+beta:0.6000000000000001,accuracy:0.798828125
+
+epoch: 0, val_loss: 1.6145602464675903
+epoch: 1, val_loss: 1.4100317358970642
+epoch: 2, val_loss: 1.1980618238449097
+epoch: 3, val_loss: 1.0299969017505646
+epoch: 4, val_loss: 0.9175267815589905
+epoch: 5, val_loss: 0.8517003953456879
+epoch: 6, val_loss: 0.8141916990280151
+epoch: 7, val_loss: 0.7958092391490936
+epoch: 8, val_loss: 0.7833353579044342
+epoch: 9, val_loss: 0.7818152010440826
+epoch: 10, val_loss: 0.7851397693157196
+epoch: 11, val_loss: 0.7909810841083527
+epoch: 12, val_loss: 0.7976097464561462
+epoch: 13, val_loss: 0.8083359897136688
+epoch: 14, val_loss: 0.8176333606243134
+Final epoch: 14
+time of one train:3.4202005863189697
+beta:0.8,accuracy:0.80078125
+
+epoch: 0, val_loss: 1.6290672421455383
+epoch: 1, val_loss: 1.4282797574996948
+epoch: 2, val_loss: 1.2213571071624756
+epoch: 3, val_loss: 1.0522934198379517
+epoch: 4, val_loss: 0.937998354434967
+epoch: 5, val_loss: 0.8686539828777313
+epoch: 6, val_loss: 0.8311092555522919
+epoch: 7, val_loss: 0.8054404854774475
+epoch: 8, val_loss: 0.7968136072158813
+epoch: 9, val_loss: 0.7911064028739929
+epoch: 10, val_loss: 0.789807140827179
+epoch: 11, val_loss: 0.7960447371006012
+epoch: 12, val_loss: 0.8060637712478638
+epoch: 13, val_loss: 0.8113967180252075
+epoch: 14, val_loss: 0.8216951191425323
+epoch: 15, val_loss: 0.8368516266345978
+Final epoch: 15
+time of one train:3.641221523284912
+beta:1.0,accuracy:0.79296875
+
+epoch: 0, val_loss: 1.6236755847930908
+epoch: 1, val_loss: 1.431860089302063
+epoch: 2, val_loss: 1.2288803458213806
+epoch: 3, val_loss: 1.057475209236145
+epoch: 4, val_loss: 0.9400276839733124
+epoch: 5, val_loss: 0.869101881980896
+epoch: 6, val_loss: 0.8296093642711639
+epoch: 7, val_loss: 0.8056755065917969
+epoch: 8, val_loss: 0.7984354197978973
+epoch: 9, val_loss: 0.7921030521392822
+epoch: 10, val_loss: 0.7929478883743286
+epoch: 11, val_loss: 0.7984824478626251
+epoch: 12, val_loss: 0.8037776350975037
+epoch: 13, val_loss: 0.8106387853622437
+epoch: 14, val_loss: 0.820845901966095
+Final epoch: 14
+time of one train:3.414350986480713
+beta:1.2,accuracy:0.794921875
+
+epoch: 0, val_loss: 1.620940089225769
+epoch: 1, val_loss: 1.4299979209899902
+epoch: 2, val_loss: 1.2251262664794922
+epoch: 3, val_loss: 1.0560609698295593
+epoch: 4, val_loss: 0.9416297972202301
+epoch: 5, val_loss: 0.8742537498474121
+epoch: 6, val_loss: 0.836391806602478
+epoch: 7, val_loss: 0.8125321269035339
+epoch: 8, val_loss: 0.8045351505279541
+epoch: 9, val_loss: 0.8032568991184235
+epoch: 10, val_loss: 0.8060454726219177
+epoch: 11, val_loss: 0.8075176775455475
+epoch: 12, val_loss: 0.8148369193077087
+epoch: 13, val_loss: 0.8208350241184235
+epoch: 14, val_loss: 0.832664430141449
+Final epoch: 14
+time of one train:3.411363124847412
+beta:1.4,accuracy:0.796875
+
+epoch: 0, val_loss: 1.6238260865211487
+epoch: 1, val_loss: 1.4432596564292908
+epoch: 2, val_loss: 1.2541281580924988
+epoch: 3, val_loss: 1.0893760919570923
+epoch: 4, val_loss: 0.9722423255443573
+epoch: 5, val_loss: 0.8991040587425232
+epoch: 6, val_loss: 0.8572719395160675
+epoch: 7, val_loss: 0.8325314223766327
+epoch: 8, val_loss: 0.8188921809196472
+epoch: 9, val_loss: 0.8130159676074982
+epoch: 10, val_loss: 0.8157741725444794
+epoch: 11, val_loss: 0.8179663121700287
+epoch: 12, val_loss: 0.8243293464183807
+epoch: 13, val_loss: 0.8318664729595184
+epoch: 14, val_loss: 0.8418795466423035
+Final epoch: 14
+time of one train:3.4202451705932617
+beta:1.5999999999999999,accuracy:0.78515625
+
+epoch: 0, val_loss: 1.6419970989227295
+epoch: 1, val_loss: 1.471904456615448
+epoch: 2, val_loss: 1.2805230021476746
+epoch: 3, val_loss: 1.1082162857055664
+epoch: 4, val_loss: 0.9826309382915497
+epoch: 5, val_loss: 0.9044666290283203
+epoch: 6, val_loss: 0.8591932654380798
+epoch: 7, val_loss: 0.8320545256137848
+epoch: 8, val_loss: 0.818537026643753
+epoch: 9, val_loss: 0.8154600560665131
+epoch: 10, val_loss: 0.8151250183582306
+epoch: 11, val_loss: 0.8201129734516144
+epoch: 12, val_loss: 0.8239827752113342
+epoch: 13, val_loss: 0.8313461542129517
+epoch: 14, val_loss: 0.8397433459758759
+epoch: 15, val_loss: 0.8489827215671539
+Final epoch: 15
+time of one train:3.6189918518066406
+beta:1.7999999999999998,accuracy:0.775390625
+
+time of one repeat:35.052127838134766
+time of construct data:0.27381134033203125
+epoch: 0, val_loss: 1.6116462349891663
+epoch: 1, val_loss: 1.4094657897949219
+epoch: 2, val_loss: 1.2012556195259094
+epoch: 3, val_loss: 1.028217077255249
+epoch: 4, val_loss: 0.90428027510643
+epoch: 5, val_loss: 0.8287883400917053
+epoch: 6, val_loss: 0.7829977869987488
+epoch: 7, val_loss: 0.7552124857902527
+epoch: 8, val_loss: 0.7392542660236359
+epoch: 9, val_loss: 0.7362433671951294
+epoch: 10, val_loss: 0.7368450164794922
+epoch: 11, val_loss: 0.7397747337818146
+epoch: 12, val_loss: 0.7460637092590332
+epoch: 13, val_loss: 0.7520661652088165
+epoch: 14, val_loss: 0.7624082863330841
+Final epoch: 14
+beta:0.0,accuracy:0.763671875
+
+epoch: 0, val_loss: 1.622174859046936
+epoch: 1, val_loss: 1.4179291725158691
+epoch: 2, val_loss: 1.204199194908142
+epoch: 3, val_loss: 1.0299736261367798
+epoch: 4, val_loss: 0.9061431586742401
+epoch: 5, val_loss: 0.827316164970398
+epoch: 6, val_loss: 0.7836134731769562
+epoch: 7, val_loss: 0.7548136711120605
+epoch: 8, val_loss: 0.7413432896137238
+epoch: 9, val_loss: 0.7332203984260559
+epoch: 10, val_loss: 0.7338063418865204
+epoch: 11, val_loss: 0.7376805245876312
+epoch: 12, val_loss: 0.7394363284111023
+epoch: 13, val_loss: 0.7494478523731232
+epoch: 14, val_loss: 0.7573330402374268
+Final epoch: 14
+time of one train:3.4072306156158447
+beta:0.2,accuracy:0.767578125
+
+epoch: 0, val_loss: 1.640721321105957
+epoch: 1, val_loss: 1.449087142944336
+epoch: 2, val_loss: 1.229592204093933
+epoch: 3, val_loss: 1.0374984741210938
+epoch: 4, val_loss: 0.9007853865623474
+epoch: 5, val_loss: 0.8161344230175018
+epoch: 6, val_loss: 0.7701596617698669
+epoch: 7, val_loss: 0.7422583401203156
+epoch: 8, val_loss: 0.7292629480361938
+epoch: 9, val_loss: 0.7240866422653198
+epoch: 10, val_loss: 0.7238116562366486
+epoch: 11, val_loss: 0.7287773191928864
+epoch: 12, val_loss: 0.7355771064758301
+epoch: 13, val_loss: 0.7428438663482666
+epoch: 14, val_loss: 0.7496740520000458
+epoch: 15, val_loss: 0.7587631940841675
+Final epoch: 15
+time of one train:3.6310222148895264
+beta:0.4,accuracy:0.7578125
+
+epoch: 0, val_loss: 1.6220417618751526
+epoch: 1, val_loss: 1.4164947271347046
+epoch: 2, val_loss: 1.19253408908844
+epoch: 3, val_loss: 1.0017467141151428
+epoch: 4, val_loss: 0.8760300874710083
+epoch: 5, val_loss: 0.8019150495529175
+epoch: 6, val_loss: 0.7551376521587372
+epoch: 7, val_loss: 0.7312407791614532
+epoch: 8, val_loss: 0.7199557721614838
+epoch: 9, val_loss: 0.7169098854064941
+epoch: 10, val_loss: 0.7139655351638794
+epoch: 11, val_loss: 0.7161693871021271
+epoch: 12, val_loss: 0.7225803136825562
+epoch: 13, val_loss: 0.7285066246986389
+epoch: 14, val_loss: 0.7367263734340668
+epoch: 15, val_loss: 0.7445811927318573
+Final epoch: 15
+time of one train:3.758326530456543
+beta:0.6000000000000001,accuracy:0.75
+
+epoch: 0, val_loss: 1.626018464565277
+epoch: 1, val_loss: 1.4312085509300232
+epoch: 2, val_loss: 1.2188704013824463
+epoch: 3, val_loss: 1.0354608297348022
+epoch: 4, val_loss: 0.9045644998550415
+epoch: 5, val_loss: 0.821247011423111
+epoch: 6, val_loss: 0.7712915539741516
+epoch: 7, val_loss: 0.740270584821701
+epoch: 8, val_loss: 0.7310269474983215
+epoch: 9, val_loss: 0.721886545419693
+epoch: 10, val_loss: 0.7159363627433777
+epoch: 11, val_loss: 0.7241040766239166
+epoch: 12, val_loss: 0.7264020144939423
+epoch: 13, val_loss: 0.7375755906105042
+epoch: 14, val_loss: 0.742217630147934
+epoch: 15, val_loss: 0.747900128364563
+Final epoch: 15
+time of one train:3.616445779800415
+beta:0.8,accuracy:0.755859375
+
+epoch: 0, val_loss: 1.6413195729255676
+epoch: 1, val_loss: 1.447413444519043
+epoch: 2, val_loss: 1.237538993358612
+epoch: 3, val_loss: 1.056234359741211
+epoch: 4, val_loss: 0.9233471751213074
+epoch: 5, val_loss: 0.8412391841411591
+epoch: 6, val_loss: 0.7871634364128113
+epoch: 7, val_loss: 0.7569406628608704
+epoch: 8, val_loss: 0.7428499758243561
+epoch: 9, val_loss: 0.7365033030509949
+epoch: 10, val_loss: 0.7365244030952454
+epoch: 11, val_loss: 0.7371315360069275
+epoch: 12, val_loss: 0.7406353652477264
+epoch: 13, val_loss: 0.7482509315013885
+epoch: 14, val_loss: 0.7585648596286774
+Final epoch: 14
+time of one train:3.3986408710479736
+beta:1.0,accuracy:0.75390625
+
+epoch: 0, val_loss: 1.634926974773407
+epoch: 1, val_loss: 1.4417393207550049
+epoch: 2, val_loss: 1.227920114994049
+epoch: 3, val_loss: 1.0428221225738525
+epoch: 4, val_loss: 0.9098162055015564
+epoch: 5, val_loss: 0.8263395428657532
+epoch: 6, val_loss: 0.7739812731742859
+epoch: 7, val_loss: 0.7491588890552521
+epoch: 8, val_loss: 0.7322405874729156
+epoch: 9, val_loss: 0.7268008589744568
+epoch: 10, val_loss: 0.7277732193470001
+epoch: 11, val_loss: 0.7310926616191864
+epoch: 12, val_loss: 0.7347092032432556
+epoch: 13, val_loss: 0.7392951846122742
+epoch: 14, val_loss: 0.7514709532260895
+Final epoch: 14
+time of one train:3.409254789352417
+beta:1.2,accuracy:0.759765625
+
+epoch: 0, val_loss: 1.6184204816818237
+epoch: 1, val_loss: 1.4278291463851929
+epoch: 2, val_loss: 1.2298060655593872
+epoch: 3, val_loss: 1.0555365085601807
+epoch: 4, val_loss: 0.9255867600440979
+epoch: 5, val_loss: 0.8436084389686584
+epoch: 6, val_loss: 0.791197657585144
+epoch: 7, val_loss: 0.759952574968338
+epoch: 8, val_loss: 0.7418431639671326
+epoch: 9, val_loss: 0.7331580519676208
+epoch: 10, val_loss: 0.7298146486282349
+epoch: 11, val_loss: 0.7306386530399323
+epoch: 12, val_loss: 0.7357140779495239
+epoch: 13, val_loss: 0.7423789799213409
+epoch: 14, val_loss: 0.7484646141529083
+epoch: 15, val_loss: 0.7570656538009644
+Final epoch: 15
+time of one train:3.6243417263031006
+beta:1.4,accuracy:0.765625
+
+epoch: 0, val_loss: 1.6231600642204285
+epoch: 1, val_loss: 1.4372093081474304
+epoch: 2, val_loss: 1.2386314272880554
+epoch: 3, val_loss: 1.0635322332382202
+epoch: 4, val_loss: 0.9355456531047821
+epoch: 5, val_loss: 0.8527912497520447
+epoch: 6, val_loss: 0.8046388328075409
+epoch: 7, val_loss: 0.7771803438663483
+epoch: 8, val_loss: 0.7620456218719482
+epoch: 9, val_loss: 0.7512313723564148
+epoch: 10, val_loss: 0.7495245337486267
+epoch: 11, val_loss: 0.7538775205612183
+epoch: 12, val_loss: 0.757012128829956
+epoch: 13, val_loss: 0.7613820433616638
+epoch: 14, val_loss: 0.7669305801391602
+epoch: 15, val_loss: 0.7783424556255341
+Final epoch: 15
+time of one train:3.621002435684204
+beta:1.5999999999999999,accuracy:0.75390625
+
+epoch: 0, val_loss: 1.6294793486595154
+epoch: 1, val_loss: 1.450411856174469
+epoch: 2, val_loss: 1.255669116973877
+epoch: 3, val_loss: 1.0751355290412903
+epoch: 4, val_loss: 0.9436079859733582
+epoch: 5, val_loss: 0.8565700352191925
+epoch: 6, val_loss: 0.8044404089450836
+epoch: 7, val_loss: 0.7762179672718048
+epoch: 8, val_loss: 0.7591825723648071
+epoch: 9, val_loss: 0.7515892088413239
+epoch: 10, val_loss: 0.7493301033973694
+epoch: 11, val_loss: 0.7510203123092651
+epoch: 12, val_loss: 0.7562296092510223
+epoch: 13, val_loss: 0.7605221569538116
+epoch: 14, val_loss: 0.7672744691371918
+epoch: 15, val_loss: 0.7758122384548187
+Final epoch: 15
+time of one train:3.6343557834625244
+beta:1.7999999999999998,accuracy:0.755859375
+
+time of one repeat:35.718247175216675
+time of construct data:0.27312541007995605
+epoch: 0, val_loss: 1.6193538308143616
+epoch: 1, val_loss: 1.4478244185447693
+epoch: 2, val_loss: 1.265495479106903
+epoch: 3, val_loss: 1.1075421571731567
+epoch: 4, val_loss: 0.9854824542999268
+epoch: 5, val_loss: 0.8999247550964355
+epoch: 6, val_loss: 0.8438113331794739
+epoch: 7, val_loss: 0.8063660264015198
+epoch: 8, val_loss: 0.7875741124153137
+epoch: 9, val_loss: 0.773855596780777
+epoch: 10, val_loss: 0.7688577771186829
+epoch: 11, val_loss: 0.7655535042285919
+epoch: 12, val_loss: 0.7677159011363983
+epoch: 13, val_loss: 0.7714416682720184
+epoch: 14, val_loss: 0.7771613895893097
+epoch: 15, val_loss: 0.7818103730678558
+epoch: 16, val_loss: 0.788957953453064
+Final epoch: 16
+beta:0.0,accuracy:0.751953125
+
+epoch: 0, val_loss: 1.6410161256790161
+epoch: 1, val_loss: 1.4620438814163208
+epoch: 2, val_loss: 1.2659968137741089
+epoch: 3, val_loss: 1.0986732244491577
+epoch: 4, val_loss: 0.9761896431446075
+epoch: 5, val_loss: 0.8936310410499573
+epoch: 6, val_loss: 0.8412789404392242
+epoch: 7, val_loss: 0.8082829117774963
+epoch: 8, val_loss: 0.7888896763324738
+epoch: 9, val_loss: 0.7778323888778687
+epoch: 10, val_loss: 0.7707864940166473
+epoch: 11, val_loss: 0.7695480287075043
+epoch: 12, val_loss: 0.7690814137458801
+epoch: 13, val_loss: 0.7726424336433411
+epoch: 14, val_loss: 0.77658811211586
+epoch: 15, val_loss: 0.7811496257781982
+epoch: 16, val_loss: 0.7895254194736481
+epoch: 17, val_loss: 0.7960682511329651
+Final epoch: 17
+time of one train:3.8252999782562256
+beta:0.2,accuracy:0.744140625
+
+epoch: 0, val_loss: 1.6533232927322388
+epoch: 1, val_loss: 1.4921497106552124
+epoch: 2, val_loss: 1.3064944744110107
+epoch: 3, val_loss: 1.133678913116455
+epoch: 4, val_loss: 0.9999189376831055
+epoch: 5, val_loss: 0.9040625393390656
+epoch: 6, val_loss: 0.8430283963680267
+epoch: 7, val_loss: 0.8026716709136963
+epoch: 8, val_loss: 0.7789061367511749
+epoch: 9, val_loss: 0.7638480961322784
+epoch: 10, val_loss: 0.7560885548591614
+epoch: 11, val_loss: 0.7536800503730774
+epoch: 12, val_loss: 0.7545147836208344
+epoch: 13, val_loss: 0.7567534744739532
+epoch: 14, val_loss: 0.7609767317771912
+epoch: 15, val_loss: 0.7668220102787018
+epoch: 16, val_loss: 0.7733196020126343
+Final epoch: 16
+time of one train:3.6097323894500732
+beta:0.4,accuracy:0.763671875
+
+epoch: 0, val_loss: 1.6495368480682373
+epoch: 1, val_loss: 1.4881768226623535
+epoch: 2, val_loss: 1.3090976476669312
+epoch: 3, val_loss: 1.1405466198921204
+epoch: 4, val_loss: 1.005105435848236
+epoch: 5, val_loss: 0.9093717634677887
+epoch: 6, val_loss: 0.846522331237793
+epoch: 7, val_loss: 0.8078470230102539
+epoch: 8, val_loss: 0.7825689315795898
+epoch: 9, val_loss: 0.7688862383365631
+epoch: 10, val_loss: 0.7629625499248505
+epoch: 11, val_loss: 0.7594391405582428
+epoch: 12, val_loss: 0.7600916922092438
+epoch: 13, val_loss: 0.7657462954521179
+epoch: 14, val_loss: 0.7664481699466705
+epoch: 15, val_loss: 0.7746761739253998
+epoch: 16, val_loss: 0.7805603742599487
+Final epoch: 16
+time of one train:3.621607542037964
+beta:0.6000000000000001,accuracy:0.755859375
+
+epoch: 0, val_loss: 1.6341492533683777
+epoch: 1, val_loss: 1.4588540196418762
+epoch: 2, val_loss: 1.2725989818572998
+epoch: 3, val_loss: 1.1079190373420715
+epoch: 4, val_loss: 0.9852141737937927
+epoch: 5, val_loss: 0.8966138064861298
+epoch: 6, val_loss: 0.8391523063182831
+epoch: 7, val_loss: 0.8033708930015564
+epoch: 8, val_loss: 0.7809667587280273
+epoch: 9, val_loss: 0.7639359533786774
+epoch: 10, val_loss: 0.7559274733066559
+epoch: 11, val_loss: 0.752475380897522
+epoch: 12, val_loss: 0.7521331310272217
+epoch: 13, val_loss: 0.7533969879150391
+epoch: 14, val_loss: 0.757648378610611
+epoch: 15, val_loss: 0.7613944709300995
+epoch: 16, val_loss: 0.7696841657161713
+epoch: 17, val_loss: 0.7754065692424774
+Final epoch: 17
+time of one train:3.8210909366607666
+beta:0.8,accuracy:0.7578125
+
+epoch: 0, val_loss: 1.6380863189697266
+epoch: 1, val_loss: 1.4724560379981995
+epoch: 2, val_loss: 1.2953333258628845
+epoch: 3, val_loss: 1.1346179246902466
+epoch: 4, val_loss: 1.0112923681735992
+epoch: 5, val_loss: 0.9215347170829773
+epoch: 6, val_loss: 0.8609357476234436
+epoch: 7, val_loss: 0.820985734462738
+epoch: 8, val_loss: 0.794431209564209
+epoch: 9, val_loss: 0.7802753746509552
+epoch: 10, val_loss: 0.7717740833759308
+epoch: 11, val_loss: 0.7662114799022675
+epoch: 12, val_loss: 0.7657539248466492
+epoch: 13, val_loss: 0.7678889036178589
+epoch: 14, val_loss: 0.7713881433010101
+epoch: 15, val_loss: 0.7756291031837463
+epoch: 16, val_loss: 0.7805745899677277
+epoch: 17, val_loss: 0.7886037528514862
+Final epoch: 17
+time of one train:3.815396547317505
+beta:1.0,accuracy:0.759765625
+
+epoch: 0, val_loss: 1.6702679991722107
+epoch: 1, val_loss: 1.520412266254425
+epoch: 2, val_loss: 1.3485074043273926
+epoch: 3, val_loss: 1.1812707781791687
+epoch: 4, val_loss: 1.0452489256858826
+epoch: 5, val_loss: 0.9449832737445831
+epoch: 6, val_loss: 0.8775992393493652
+epoch: 7, val_loss: 0.8323017358779907
+epoch: 8, val_loss: 0.8015125691890717
+epoch: 9, val_loss: 0.784293532371521
+epoch: 10, val_loss: 0.7740165591239929
+epoch: 11, val_loss: 0.769843727350235
+epoch: 12, val_loss: 0.7684490084648132
+epoch: 13, val_loss: 0.7694802284240723
+epoch: 14, val_loss: 0.7720444798469543
+epoch: 15, val_loss: 0.7788278460502625
+epoch: 16, val_loss: 0.7822502851486206
+epoch: 17, val_loss: 0.7904923260211945
+Final epoch: 17
+time of one train:3.7944180965423584
+beta:1.2,accuracy:0.759765625
+
+epoch: 0, val_loss: 1.6571717858314514
+epoch: 1, val_loss: 1.5081757307052612
+epoch: 2, val_loss: 1.3404487371444702
+epoch: 3, val_loss: 1.176213026046753
+epoch: 4, val_loss: 1.0426385998725891
+epoch: 5, val_loss: 0.9445486664772034
+epoch: 6, val_loss: 0.879843682050705
+epoch: 7, val_loss: 0.8329339027404785
+epoch: 8, val_loss: 0.8053328692913055
+epoch: 9, val_loss: 0.7906114459037781
+epoch: 10, val_loss: 0.7792128026485443
+epoch: 11, val_loss: 0.7723897397518158
+epoch: 12, val_loss: 0.7727732360363007
+epoch: 13, val_loss: 0.7750517725944519
+epoch: 14, val_loss: 0.7762904465198517
+epoch: 15, val_loss: 0.7835102677345276
+epoch: 16, val_loss: 0.7904074192047119
