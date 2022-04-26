@@ -1,4 +1,3 @@
-path_result: /home/zhihao/Document/gnn_fd/graphSage/split/multihead/NCGNN_reorderedge/results/
 dataset:
   name: amazon_computer
   split: [0.6,0.2,0.2]

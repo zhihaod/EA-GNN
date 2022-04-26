@@ -1,10 +1,6 @@
-task_path: /home/zhihao/Document/gnn_fd/graphSage/split/multihead/NC-GNN/
 dataset:
   name: citeseer
   split: [0.6,0.2,0.2]
-  path: /home/zhihao/Document/gnn_fd/graphSage/data/
-  task: node
-  transductive: True
 train:
   batch_size: 256
   patience: 5

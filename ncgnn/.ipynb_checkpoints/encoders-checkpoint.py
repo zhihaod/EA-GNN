@@ -8,9 +8,6 @@ from torch.nn import init
 import torch.nn.functional as F
 
 class Encoder(nn.Module):
-    """
-    Encodes a node's using 'convolutional' GraphSage approach
-    """
     def __init__(self, features, feature_dim, 
             embed_dim, aggregator,
             num_sample=5,
@@ -37,8 +34,7 @@ class Encoder(nn.Module):
 
     def forward(self, nodes,adj_lists):
         """
-        Generates embeddings for a batch of nodes.
-        nodes     -- list of nodes
+        Generates embeddings for a batch of nodes
         """
         neigh_feats = self.aggregator.forward(nodes,adj_lists,[adj_lists[int(node)] for node in nodes], self.num_sample)
         if not self.gcn:
@@ -59,9 +55,6 @@ class Encoder(nn.Module):
         return combined
 
 class Encoder_multi(nn.Module):
-    """
-    Encodes a node's using 'convolutional' GraphSage approach
-    """
     def __init__(self, features, feature_dim, 
             embed_dim, aggregator,
             num_sample=5,
@@ -86,23 +79,18 @@ class Encoder_multi(nn.Module):
 
     def forward(self, nodes,adj_lists):
         """
-        Generates embeddings for a batch of nodes.
-
-        nodes     -- list of nodes
+        Generates embeddings for a batch of nodes
         """
       
         neigh_feats = self.aggregator.forward(nodes,adj_lists,[adj_lists[int(node)] for node in nodes], self.num_sample)
             
         if not self.gcn:
             if self.cuda:
-                #self_feats = self.features(torch.LongTensor(nodes).cuda())
-                
                 if self.is_first:
                     self_feats = self.features(torch.LongTensor(nodes).cuda())
                 else:
                     self_feats = self.features(torch.LongTensor(nodes).cuda(),adj_lists)
-            #else:
-            #    self_feats = self.features(torch.LongTensor(nodes))
+
                 
             else:
                 if self.is_first:
@@ -114,11 +102,6 @@ class Encoder_multi(nn.Module):
             
         else:
             combineds = neigh_feats
-        
-        #combined_list = []
-        #for combined in combineds:
-        #    combined_list.append(F.relu(self.weight.mm(combined.t())))
-        #combined_final = torch.cat(combined_list, dim=0)
-        #print(combined.shape)
+
         return F.relu(self.weight.mm(combineds.t()))
         

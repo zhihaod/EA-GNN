@@ -34,7 +34,7 @@ class WeightedAggregator(nn.Module):
         to_neighs --- list of sets, each set is the set of neighbors for node in batch
         num_sample --- number of neighbors to sample. No sampling if None.
         """
-        # Local pointers to functions (speed hack)
+
         nodes = nodes.tolist()
         node_list = nodes.copy()
         _set = set
@@ -52,7 +52,6 @@ class WeightedAggregator(nn.Module):
             for tur in samp_neigh:
                 node_list.append(tur[0])
         time_end = time.time()
-        #print(f'time of get nodes:{time_end-time_start}')
         
         unique_nodes_list = list(set(node_list))      
         unique_nodes = {n:i for i,n in enumerate(unique_nodes_list)} 
@@ -74,7 +73,6 @@ class WeightedAggregator(nn.Module):
                     for node in samp_neighs[i]: 
                         mask[i,unique_nodes[node[0]]] = pow(node[1],self.beta)
         time_end = time.time()
-        #print(f'time of getting mask:{time_end-time_start}')
         
         if self.cuda:
             mask = mask.cuda()
@@ -95,7 +93,6 @@ class WeightedAggregator(nn.Module):
         time_start = time.time()
         to_feats = mask.mm(embed_matrix)
         time_end = time.time()
-        #print(f'time of getting mask nodes embedding:{time_end-time_start}')
         return to_feats
     
     

@@ -246,7 +246,6 @@ def load_data_for_gcn(name,path="./data/"):
             
     features = dataset_raw[0].x.numpy()
     labels = dataset_raw[0].y.numpy()
-    #labels = np.expand_dims(dataset_raw[0].y.numpy(), axis=1)
     edges = dataset_raw[0].edge_index.numpy()
     
     adj = sp.coo_matrix((np.ones(edges.shape[1]), (edges[0,:], edges[1,:])), shape=(labels.shape[0], labels.shape[0]), dtype=np.float32)
