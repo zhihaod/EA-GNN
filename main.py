@@ -12,8 +12,6 @@ import argparse
 import time
 import sys
 
-
-
 parser = argparse.ArgumentParser()
 parser.add_argument('--model', type=str, default='ncgnn')
 args = parser.parse_args()
@@ -28,7 +26,7 @@ for cfg_name in cfg_names:
     cfg_file = task_path + f'/cfg/shuffling/' + cfg_name + '.yaml'
     cfg.merge_from_file(cfg_file)
     path = task_path + f'/data/'
-    path_result = cfg.task_path + '/results/'  
+    path_result = task_path + '/results/'  
     ratio_train_val_test = cfg.dataset.split
     batch_size = cfg.train.batch_size
     lr = cfg.optim.lr
@@ -43,7 +41,7 @@ for cfg_name in cfg_names:
     hidden=cfg.model.hidden
     dataset = cfg.dataset.name
     num_sample =cfg.model.num_sample
-    shuffle_ratios = [0.6,0.5,0.4,0.3,0.2,0.1,0.0]
+    #shuffle_ratios = [0.6,0.5,0.4,0.3,0.2,0.1,0.0]
    
     if model == 'sage':
         beta = 0.0
@@ -53,16 +51,15 @@ for cfg_name in cfg_names:
     results = []
     for ratio in shuffle_ratios:
         
-        features,labels,full_adjs_dict = load_dataset(dataset,path)    
-        
-        full_adjs_shuffled = shuffle_edges(full_adjs_dict,ratio,10)
+        features,labels,full_adjs_dict = load_dataset(dataset,path)         
+        #full_adjs_shuffled = shuffle_edges(full_adjs_dict,ratio,10)
         
         result_ = []
         for seed in range(repeat):
             time_start = time.time()
             train_idx,val_idx,test_idx = create_data_splits(labels,seed,ratio_train_val_test)
             result = train_model(features,labels,num_sample,hidden,cuda,gcn,beta,lr,train_idx,\
-                                 val_idx,test_idx,full_adjs_shuffled,batch_size,epochs,dataset,patience,r,interval)
+                                 val_idx,test_idx,full_adjs_dict,batch_size,epochs,dataset,patience,r,interval)
             result_.append(result[2])
             time_end = time.time()
             print(f'time of one repeat:{time_end-time_start}')

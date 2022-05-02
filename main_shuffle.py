@@ -60,7 +60,6 @@ for cfg_name in cfg_names:
             train_idx,val_idx,test_idx = create_data_splits(labels,seed,ratio_train_val_test)
             result = train_model(features,labels,num_sample,hidden,cuda,gcn,beta,lr,train_idx,\
                                  val_idx,test_idx,full_adjs_shuffled,batch_size,epochs,dataset,patience,r,interval)
-    
             result_.append(result[2])
             time_end = time.time()
             print(f'time of one repeat:{time_end-time_start}')
